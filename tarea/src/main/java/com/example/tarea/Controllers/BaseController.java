@@ -18,7 +18,7 @@ public class BaseController {
 
     @GetMapping("/sub1")
     public String sub1(Model model) {
-        return "plantilla";
+        return "empleados";
     }
 
     /*GetMapping("/sub2")
