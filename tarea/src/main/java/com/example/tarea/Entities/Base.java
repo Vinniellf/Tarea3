@@ -2,7 +2,6 @@ package com.example.tarea.Entities;
 
 import com.fasterxml.jackson.annotation.JsonTypeId;
 import jakarta.persistence.*;
-import lombok.Cleanup;
 
 @Entity
 @Table(name = "base")
